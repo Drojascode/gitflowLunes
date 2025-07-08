@@ -1,5 +1,8 @@
 # gitflowLunes
 Diego Rojas
+ElFafo hola
+Alondra
+Diego Rojas
 <<<<<<< HEAD
 Daniel Solís
 =======
